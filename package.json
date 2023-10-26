@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "apexcharts": "^3.41.1",
+    "chart.js": "^4.3.3",
+    "mysql2": "^3.6.0"
+  },
+  "name": "dashb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
